@@ -21,6 +21,8 @@ Ability to browse the look up for venues in search bar, map with displayed venue
 <h2>Sample screenshots:</h2>
 
 ![Screenshot 2021-08-13 at 16 14 22](https://user-images.githubusercontent.com/81250034/129362445-1b16973a-0083-4d74-a9b0-42df94f08584.png)
+<br>
+![Screenshot 2021-08-13 at 16 15 36](https://user-images.githubusercontent.com/81250034/129362671-3bd06986-5ab1-4093-bc69-a3e25a06c39b.png)
 
 <h2>Build:</h2>
 <li>Create a grid using "for loop" and add divs using JS through DOM.</li>
