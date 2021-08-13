@@ -14,8 +14,8 @@ Ability to browse the look up for venues in search bar, map with displayed venue
 <a href="https://cest-sei-project-3.herokuapp.com/">CEST Coworking and Event Space</a>
 
 <h2>Tech used:</h2>
-<li>React, Mongoose - frontend</li>
-<li>Node.js, MongoDB - backend</li>
+<li>React, Mongoose,  - frontend</li>
+<li>Node.js, MongoDB, Express - backend</li>
 <li>Bootstrap, with ocasional Bulma and little of custom CSS - styling.</li>
 
 <h2>Sample screenshots:</h2>
@@ -25,10 +25,10 @@ Ability to browse the look up for venues in search bar, map with displayed venue
 ![Screenshot 2021-08-13 at 16 15 36](https://user-images.githubusercontent.com/81250034/129362671-3bd06986-5ab1-4093-bc69-a3e25a06c39b.png)
 
 <h2>Build:</h2>
-<li>Create a grid using "for loop" and add divs using JS through DOM.</li>
-<li>Give each "cell" (essentially, div) an id for allocation purposes, applying certain css classes at particular situation to each one, creating actual gameplay.</li>
-<li>Create classes for game objects: aliens, player, bullet, explosion, collision etc.</li>
-<li>Develop functions, setting the raticular rules: collision detection, player position, bullet movement etc.</li>
+<li>Create express application and get backend server running for your API. Define schemas for workspaces and comments, set up models for workspaces and users, make sure that you create right relationship (embedded - such as comments depending on workspace, reference - when user is assigned as "owner" of "workspace" in schema, reverse - when we loop through model "workspaces" and check, whether if any are "onwed" by user by comparing id's), create seeds files, process all needed requests of CRUD</li>
+<li>Create routing with defined API endpoints, test requests and move onto authentication, create token for user registering and logging in, make sure, you removing sensitive data from your requests (such as password and its validation). Create a secure route component, and apply it to routes that need to be protected from unauthorized use.</li>
+<li>Move on to frontend. Create React app, update proxy middleware with port from backend, install axios, use 'api/' prefix on all axios requests you send to your API. Add react-router-dom, use Router, Switch and Route to establish the connection between components. Install React-Bootstrap and start developing the frontend functionality of the project.</li>
+<li>Build your components, handling the requests and errors, storing data at state instances and using one for rendering. Use token set from backend as authentication piece allowing certain functionality on conditional ternaries, dependant on id match of current user and one, who created information piece, ex. "comment".</li>
 <br>
 (for more detailed examples see "sample code")
     
