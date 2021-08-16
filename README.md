@@ -33,9 +33,9 @@ Ability to browse the look up for venues in search bar, map with displayed venue
 (for more detailed examples see "sample code")
     
 <h2>Sample code:</h2>
-<li>Here you can see, how the bullet moves and what are the conditions:</li>
+<li>Here we can see, how secure route is working at our backend:</li>
 <br>
-First function defines what to do if a "cell" contains a particular class, and if right key is pressed, adds a bullet
+<img width="614" alt="Screenshot 2021-08-16 at 22 28 16" src="https://user-images.githubusercontent.com/81250034/129619301-22bd7f71-a3ce-468a-96d5-cb31bb88121c.png">
 <br>
 <br>
 Second function is running on interval, and moves the bullet up to the top of game field and removes it when bullet reaches top border.
@@ -74,4 +74,5 @@ This functions defines what happens when you hit the alien:
 <li>Pause game functionality.</li>
 <li>Mute functionality.</li>
 <li>2 players functionality - 2 simultaneously and/or turn taking.</li>
-<li>Difficulty levels, increasing speed of movement of aliens etc.</li>
+<li>Difficulty levels, increasing speed of movement of aliens etc.</li>\
+
