@@ -85,4 +85,4 @@ Both "comments" and "workspaces" have referenced owner field, which will be repr
 <li>Difficulty levels, increasing speed of movement of aliens etc.</li>\
 
 <h2>My colleauges, who also worked on this project:<h2>
-<a href="https://github.com/emilesherrott/>Emile Sherrot</a>
+<a href="https://github.com/emilesherrott/>Emile Sherrot</a><a href="https://github.com/emilesherrott/>Emile Sherrot</a>
