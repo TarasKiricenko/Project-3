@@ -88,7 +88,6 @@ Just 20 lines of code in JSX.
 <br>
 <br>
 <img width="911" alt="Screenshot 2021-08-17 at 00 40 11" src="https://user-images.githubusercontent.com/81250034/129632910-d0bdd79b-27a2-4c56-bde4-feae630b5313.png">
-<br>
 <h2>Wins and challenges:</h2>
 <h4>Wins</h4>
 <li>It was great practice on array methods and interval management, as well as using "for loop" and getElement functions. Perfect kind of project for beginners to solidify their knowledge of JavaScript</li>
