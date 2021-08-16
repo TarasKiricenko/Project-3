@@ -69,7 +69,11 @@ Both "comments" and "workspaces" have referenced owner field, which will be repr
 * Need to mention here, that all sensitive data (password) is stored in encrypted format, hashed and salted, removed from JSON. 
 <br>
 <br>
-<img width="613" alt="Screenshot 2021-08-16 at 22 46 47" src="https://user-images.githubusercontent.com/81250034/129620911-8c150ef4-92ae-41a3-816d-37729adbde70.png">
+<li>Closing backend, let have a look at how Register/Login business works:</li>
+<br>
+
+
+
 Good example of setting a virtual field of avgRating to schema making sure it is set to JSON when response has been sent back from API.
 <br>
 <br>
