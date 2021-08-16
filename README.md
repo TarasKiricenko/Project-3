@@ -39,8 +39,8 @@ Ability to browse the look up for venues in search bar, map with displayed venue
 <br>
 In this asynchronous function, we first check, if our "headers" are present, and if so, we try to verfify our user through JWT payload.
 <br>
-User, who we try to verify has to be found by his id, which is "sub" in our token payload and if user is found we can move towards next function utilizing next().
 <br>
+User, who we try to verify has to be found by his id, which is "sub" in our token payload and if user is found we can move towards next function utilizing next().
 <br>
 <img width="650" alt="Screenshot 2021-08-11 at 14 34 16" src="https://user-images.githubusercontent.com/81250034/129022002-e2b971bb-f0b6-46b3-bea9-0d6df0625ee4.png">
 <br>
