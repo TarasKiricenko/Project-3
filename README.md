@@ -81,12 +81,16 @@ I had to use ternary and onMouseOver with onClick together, to perform the actio
 Whole set of JSX is written with help of Bootstrap, another great framework to use. It was my first attempt to use it.
 <br>
 <br>
-<li>Closing backend, let have a look at how Register/Login business works:</li>
-
+<hr>
+<li>Another great thing to see on the homepage, carousel:</li>
 
 https://user-images.githubusercontent.com/81250034/129632519-39ea71a3-3b1c-4fa8-9156-64603f8ed612.mov
 
 <br>
+<br>
+Just 20 lines of code in JSX.
+<br>
+
 <h2>Wins and challenges:</h2>
 <h4>Wins</h4>
 <li>It was great practice on array methods and interval management, as well as using "for loop" and getElement functions. Perfect kind of project for beginners to solidify their knowledge of JavaScript</li>
