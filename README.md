@@ -42,13 +42,14 @@ In this asynchronous function, we first check, if our "headers" are present, and
 User, who we try to verify has to be found by his id, which is "sub" in our token payload and if user is found we can move towards next function utilizing next().
 <br>
 <br>
-<li>Here is our backend model for "workspace", our main API "unit":</li>
+<li>Here is our schema for "workspace", our main API "unit", with embedded and reference relationship with "comments and "user" respectively:</li>
 <br>
 <img width="613" alt="Screenshot 2021-08-16 at 22 46 47" src="https://user-images.githubusercontent.com/81250034/129620911-8c150ef4-92ae-41a3-816d-37729adbde70.png">
+Good example of setting a virtual field of avgRating to schema making sure it is set to JSON when response has been sent back from API.
 <br>
-This functions defines what happens when you hit the alien:
 <br>
-<br>
+Both "comments" and "workspaces" have referenced owner field, which will be represented through Id.
+<br
 * It checks, if first of all you do have 2 classes in one "cell" first
 <br>
 * Add points to your score span.
