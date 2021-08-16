@@ -80,7 +80,7 @@ Need to mention here, that all sensitive data (password) is stored in encrypted 
 <li>Looking at the frontend, I had to solve an issue of getting a particular comment to be deleted:</li>
 <br>
 <img width="963" alt="Screenshot 2021-08-16 at 23 32 48" src="https://user-images.githubusercontent.com/81250034/129625962-be236ecf-3e5c-4529-b6c8-ff6b5b5bf027.png">
-I had to use ternary and onMouseOver with onClick together, to perform the action, where only user who added the comment can delete it.
+I had to use 4 layered ternary and onMouseOver with onClick together, to perform the action, where only user who added the comment can delete it.
 <br>
 <br>
 Whole set of JSX is written with help of Bootstrap, another great framework to use. It was my first attempt to use it.
