@@ -82,6 +82,10 @@ Whole set of JSX is written with help of Bootstrap, another great framework to u
 <br>
 <br>
 <li>Closing backend, let have a look at how Register/Login business works:</li>
+
+
+https://user-images.githubusercontent.com/81250034/129632519-39ea71a3-3b1c-4fa8-9156-64603f8ed612.mov
+
 <br>
 <h2>Wins and challenges:</h2>
 <h4>Wins</h4>
