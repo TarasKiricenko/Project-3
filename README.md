@@ -83,12 +83,16 @@ Whole set of JSX is written with help of Bootstrap, another great framework to u
 <br>
 <hr>
 <li>Another great thing to see on the homepage, carousel:</li>
+<br>
 
 https://user-images.githubusercontent.com/81250034/129632519-39ea71a3-3b1c-4fa8-9156-64603f8ed612.mov
 
 <br>
 <br>
 Just 20 lines of code in JSX.
+<br>
+<img width="911" alt="Screenshot 2021-08-17 at 00 40 11" src="https://user-images.githubusercontent.com/81250034/129632910-d0bdd79b-27a2-4c56-bde4-feae630b5313.png">
+<br>
 <br>
 
 <h2>Wins and challenges:</h2>
