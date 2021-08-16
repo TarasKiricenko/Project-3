@@ -52,6 +52,7 @@ Good example of setting a virtual field of avgRating to schema making sure it is
 Both "comments" and "workspaces" have referenced owner field, which will be represented through Id.
 <br>
 <br>
+<hr>
 <li>Closing backend, let have a look at how Register/Login business works:</li>
 <br>
 <img width="821" alt="Screenshot 2021-08-16 at 23 05 11" src="https://user-images.githubusercontent.com/81250034/129623053-c7dff7f5-97dd-4c9d-9e99-eb8127cf6b6c.png">
@@ -70,6 +71,7 @@ Passing check, we also give that user a "token", made of expiry, secret, and sub
 Need to mention here, that all sensitive data (password) is stored in encrypted format, hashed and salted, removed from JSON. 
 <br>
 <br>
+<hr>
 <li>Looking at the frontend, I had to solve an issue of getting a particular comment to be deleted:</li>
 <br>
 <img width="963" alt="Screenshot 2021-08-16 at 23 32 48" src="https://user-images.githubusercontent.com/81250034/129625962-be236ecf-3e5c-4529-b6c8-ff6b5b5bf027.png">
