@@ -95,18 +95,21 @@ Just 20 lines of code in JSX.
 <img width="911" alt="Screenshot 2021-08-17 at 00 40 11" src="https://user-images.githubusercontent.com/81250034/129632910-d0bdd79b-27a2-4c56-bde4-feae630b5313.png">
 <h2>Wins and challenges:</h2>
 <h4>Wins</h4>
-<li>It was great practice on array methods and interval management, as well as using "for loop" and getElement functions. Perfect kind of project for beginners to solidify their knowledge of JavaScript</li>
-<li>I have designed this game myself, so the sounds I was using had to be "cut" to particualr pieces, as they had to fit sertain timeframes in my interval-paced game. Good fun and valuable experience.</li>
+<li>Great possibility to develop both side of MERN APP, where I was concentrating on Authentiaction at the backend and Event section at the frontend.</li>
+<li>Perfect opportunity to practice MongoDB, solidifying knowledge about relationships and modelling.</li>
+<li>Another great chance to create a React App at the frontend</li>
+<li>Lovely opportunity of group programming, using GitHub collectively, practising version control and branch adjustments. Fantastic experience working as a part of great team, probably one of the most important experiences during the course. </li>
 
 <h4>Challenges</h4>
-<li>The most challenging part was defining a collision between alien bullet and player, as it is a multi-conditional function, that not only checks, if player was hit, but defines the movement of alien projectile.</li>
-<li>Another very imlortant part, that was hard enough - styling. I wanted to create perfectly playable game, so I spend quite some time looking for right resources and making them look like a solid product.</li>
+<li>There was quite difficult way to manage error handling on contact form I created, I used default methods, that is still a point to improve.</li>
+<li>Time-management, where we had to adjust our group work to 3 different time zones, balancing with self-development and healthy life.</li>
+<li>Version control was quite challenging. I had to throw our development branch back once and restore data to needed condition, trying to resolve unnecessary node modules being pushed to it. Great fun!</li>
 
 <h2>Potential improvements:</h2>
-<li>Pause game functionality.</li>
-<li>Mute functionality.</li>
-<li>2 players functionality - 2 simultaneously and/or turn taking.</li>
-<li>Difficulty levels, increasing speed of movement of aliens etc.</li>\
+<li>Make server send emails when registering.</li>
+<li>Shopping cart functionality, with potential booking slots available.</li>
+<li>Functionality for the map definitely needs imporvements, all markers on it displayed simultaneously for now.</li>
+<li>I would love to implement pin on map in order to set up location for workspace, rather than typing it in when trying to register new one.</li>\
 
 <h2>My colleagues, who also worked on this project:</h2>
 <a href="https://github.com/emilesherrott">Emile Sherrot</a> | <a href="https://github.com/sarandis10">Sarantis Atonakas</a> | <a href="https://github.com/crigrande">Cristina Grande</a>
