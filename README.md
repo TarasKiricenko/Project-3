@@ -51,6 +51,8 @@ Good example of setting a virtual field of avgRating to schema making sure it is
 Both "comments" and "workspaces" have referenced owner field, which will be represented through Id.
 <br>
 <br>
+<li>Closing backend, let have a look at how Register/Login business works:</li>
+<img width="821" alt="Screenshot 2021-08-16 at 23 05 11" src="https://user-images.githubusercontent.com/81250034/129623053-c7dff7f5-97dd-4c9d-9e99-eb8127cf6b6c.png">
 * It checks, if first of all you do have 2 classes in one "cell" first
 <br>
 * Add points to your score span.
@@ -62,6 +64,9 @@ Both "comments" and "workspaces" have referenced owner field, which will be repr
 * Finally, if that was the last alien, shows victory message.
 <br>
 <br>
+
+
+
 <img width="837" alt="Screenshot 2021-08-11 at 14 46 24" src="https://user-images.githubusercontent.com/81250034/129023587-104ed98f-9275-4f46-b0fc-597c0a68edcb.png">
 
 <h2>Wins and challenges:</h2>
