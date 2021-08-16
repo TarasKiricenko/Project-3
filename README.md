@@ -49,7 +49,8 @@ Good example of setting a virtual field of avgRating to schema making sure it is
 <br>
 <br>
 Both "comments" and "workspaces" have referenced owner field, which will be represented through Id.
-<br
+<br>
+<br>
 * It checks, if first of all you do have 2 classes in one "cell" first
 <br>
 * Add points to your score span.
