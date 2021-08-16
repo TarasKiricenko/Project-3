@@ -84,5 +84,5 @@ Both "comments" and "workspaces" have referenced owner field, which will be repr
 <li>2 players functionality - 2 simultaneously and/or turn taking.</li>
 <li>Difficulty levels, increasing speed of movement of aliens etc.</li>\
 
-<h2>My colleauges, who also worked on this project:<h2>
+<h2>My colleauges, who also worked on this project:</h2>
 <a href="https://github.com/emilesherrott/>Emile Sherrot</a><a href="https://github.com/emilesherrott/>Emile Sherrot</a>
