@@ -109,7 +109,7 @@ Just 20 lines of code in JSX.
 <li>Make server send emails when registering.</li>
 <li>Shopping cart functionality, with potential booking slots available.</li>
 <li>Functionality for the map definitely needs imporvements, all markers on it displayed simultaneously for now.</li>
-<li>I would love to implement pin on map in order to set up location for workspace, rather than typing it in when trying to register new one.</li>\
+<li>I would love to implement pin on map in order to set up location for workspace, rather than typing it in when trying to register new one.</li>
 
 <h2>My colleagues, who also worked on this project:</h2>
 <a href="https://github.com/emilesherrott">Emile Sherrot</a> | <a href="https://github.com/sarandis10">Sarantis Atonakas</a> | <a href="https://github.com/crigrande">Cristina Grande</a>
