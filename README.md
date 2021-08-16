@@ -83,6 +83,8 @@ Whole set of JSX is written with help of Bootstrap, another great framework to u
 <br>
 <hr>
 <li>Another great thing to see on the homepage, carousel.</li>
+<br>
+<br>
 Just 20 lines of code in JSX.
 <br>
 <br>
