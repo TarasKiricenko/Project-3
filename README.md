@@ -97,8 +97,7 @@ Just 20 lines of code in JSX.
 <h4>Wins</h4>
 <li>Great possibility to develop both side of MERN APP, where I was concentrating on Authentiaction at the backend and Event section at the frontend.</li>
 <li>Perfect opportunity to practice MongoDB, solidifying knowledge about relationships and modelling.</li>
-<li>Another great chance to create a React App at the frontend</li>
-<li>Lovely opportunity of group programming, using GitHub collectively, practising version control and branch adjustments. Fantastic experience working as a part of great team, probably one of the most important experiences during the course. </li>
+<li>Lovely occasion of group programming, using GitHub collectively, practising version control and branch adjustments. Fantastic experience working as a part of great team, probably one of the most important experiences during the course. </li>
 
 <h4>Challenges</h4>
 <li>There was quite difficult way to manage error handling on contact form I created, I used default methods, that is still a point to improve.</li>
