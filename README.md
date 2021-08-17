@@ -14,7 +14,7 @@ Ability to browse the look up for venues in search bar, map with displayed venue
 <a href="https://cest-sei-project-3.herokuapp.com/">CEST Coworking and Event Space</a>
 
 <h2>Tech used:</h2>
-<li>React, Mongoose,  - frontend</li>
+<li>React, Mongoose  - frontend</li>
 <li>Node.js, MongoDB, Express - backend</li>
 <li>Bootstrap, with ocasional Bulma and little of custom CSS - styling.</li>
 
