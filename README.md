@@ -95,7 +95,7 @@ Just 20 lines of code in JSX.
 <img width="911" alt="Screenshot 2021-08-17 at 00 40 11" src="https://user-images.githubusercontent.com/81250034/129632910-d0bdd79b-27a2-4c56-bde4-feae630b5313.png">
 <h2>Wins and challenges:</h2>
 <h4>Wins</h4>
-<li>Great possibility to develop both side of MERN APP, where I was concentrating on Authentiaction at the backend and Event section at the frontend.</li>
+<li>Great possibility to develop both sides of MERN APP, where I was concentrating on Authentiaction at the backend and Event section at the frontend.</li>
 <li>Perfect opportunity to practice MongoDB, solidifying knowledge about relationships and modelling.</li>
 <li>Lovely occasion of group programming, using GitHub collectively, practising version control and branch adjustments. Fantastic experience working as a part of great team, probably one of the most important experiences during the course. </li>
 
