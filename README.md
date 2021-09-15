@@ -34,7 +34,7 @@ https://user-images.githubusercontent.com/81250034/129632519-39ea71a3-3b1c-4fa8-
 
 <br>
 
-<h1>Approach</h1>
+<h1>Approach:</h1>
 
 <h2>Build:</h2>
 <li>Create express application and get backend server running for your API. Define schemas for workspaces and comments, set up models for workspaces and users, make sure that you create right relationship (embedded - such as comments depending on workspace, reference - when user is assigned as "owner" of "workspace" in schema, reverse - when we loop through model "workspaces" and check, whether if any are "owned" by user by comparing id's), create seeds files, process all needed requests of CRUD.</li>
