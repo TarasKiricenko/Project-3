@@ -1,14 +1,19 @@
 # CEST Coworking and Event Space
-Group project with 4 people working oi it. Time for development - just over a week. Here we had to build full stack product, which is a take at WeWork website. 
+
+<h2>Overview:</h2>
+Software Engineering Immersive Course - Project-3 - Group Project - 10 days.
+
+<h2>My colleagues, who also worked on this project:</h2>
+<a href="https://github.com/emilesherrott">Emile Sherrot</a> | <a href="https://github.com/sarandis10">Sarantis Atonakas</a> | <a href="https://github.com/crigrande">Cristina Grande</a>
 
 <h2>Brief:</h2>
-Website, which allows people to find office or hot desk around the globe. We had to use database we made ourselves, and data stored in it. User can browse this website as a guest, find out where our imaginable partners located on the map, also read short descriptions about them and add their own workspace to our website.
-When registered and logged in, CRUD functionality is available, and user can also comment and leave ratings to the venues. 
+Group project with 4 people working on it. Time for development - just over a week. Task was to build full stack product, with CRUD functionality and registration/login features. 
 
-
+<h2>Description:</h2>
+The project is a website, which allows people to find office or hot desk space around the globe. We had to use a database we made ourselves, along with the data stored within it. Users can browse this website as a guest, find out where our imaginable partners are located on the map, read short descriptions about them and add their own workspace to our website. When registered and logged in, CRUD functionality is available, and users can also comment and leave ratings to the venues.
 
 <h2>Key features:</h2>
-Ability to browse the look up for venues in search bar, map with displayed venues, comments and rating, registering of own workspace.
+The site has the following key features: the ability to browse and look up venues in the search bar, map with displayed venues, comment and rate, register of own workspace.
 
 <h2>Deployed project:</h2>
 <a href="https://cest-sei-project-3.herokuapp.com/">CEST Coworking and Event Space</a>
@@ -29,8 +34,10 @@ https://user-images.githubusercontent.com/81250034/129632519-39ea71a3-3b1c-4fa8-
 
 <br>
 
+<h1>Approach</h1>
+
 <h2>Build:</h2>
-<li>Create express application and get backend server running for your API. Define schemas for workspaces and comments, set up models for workspaces and users, make sure that you create right relationship (embedded - such as comments depending on workspace, reference - when user is assigned as "owner" of "workspace" in schema, reverse - when we loop through model "workspaces" and check, whether if any are "onwed" by user by comparing id's), create seeds files, process all needed requests of CRUD</li>
+<li>Create express application and get backend server running for your API. Define schemas for workspaces and comments, set up models for workspaces and users, make sure that you create right relationship (embedded - such as comments depending on workspace, reference - when user is assigned as "owner" of "workspace" in schema, reverse - when we loop through model "workspaces" and check, whether if any are "owned" by user by comparing id's), create seeds files, process all needed requests of CRUD.</li>
 <li>Create routing with defined API endpoints, test requests and move onto authentication, create token for user registering and logging in, make sure, you removing sensitive data from your requests (such as password and its validation). Create a secure route component, and apply it to routes that need to be protected from unauthorized use.</li>
 <li>Move on to frontend. Create React app, update proxy middleware with port from backend, install axios, use 'api/' prefix on all axios requests you send to your API. Add react-router-dom, use Router, Switch and Route to establish the connection between components. Install React-Bootstrap and start developing the frontend functionality of the project.</li>
 <li>Build your components, handling the requests and errors, storing data at state instances and using one for rendering. Use token set from backend as authentication piece allowing certain functionality on conditional ternaries, dependant on id match of current user and one, who created information piece, ex. "comment".</li>
@@ -97,15 +104,12 @@ Just 20 lines of code in JSX.
 <li>Lovely occasion of group programming, using GitHub collectively, practising version control and branch adjustments. Fantastic experience working as a part of great team, probably one of the most important experiences during the course. </li>
 
 <h4>Challenges</h4>
-<li>There was quite difficult way to manage error handling on contact form I created, I used default methods, that is still a point to improve.</li>
+<li>There was quite a difficult way to manage error handling on the contact form I created, I used default methods, which is still a point to improve.</li>
 <li>Time-management, where we had to adjust our group work to 3 different time zones, balancing with self-development and healthy life.</li>
 <li>Version control was quite challenging. I had to throw our development branch back once and restore data to needed condition, trying to resolve unnecessary node modules being pushed to it. Great fun!</li>
 
 <h2>Potential improvements:</h2>
 <li>Make server send emails when registering.</li>
 <li>Shopping cart functionality, with potential booking slots available.</li>
-<li>Functionality for the map definitely needs imporvements, all markers on it displayed simultaneously for now.</li>
+<li>Functionality for the map definitely needs improvements, all markers on it displayed simultaneously for now.</li>
 <li>I would love to implement pin on map in order to set up location for workspace, rather than typing it in when trying to register new one.</li>
-
-<h2>My colleagues, who also worked on this project:</h2>
-<a href="https://github.com/emilesherrott">Emile Sherrot</a> | <a href="https://github.com/sarandis10">Sarantis Atonakas</a> | <a href="https://github.com/crigrande">Cristina Grande</a>
